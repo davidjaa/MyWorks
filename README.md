@@ -4,6 +4,8 @@
 
 How to open SaleSystemGUI/CLI:
 
+    Download the folder.
+
     SaleSystemGUI/CLI folder -> bin folder -> SaleSystemGUI/CLI.bat
 
     Credentials:
