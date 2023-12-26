@@ -9,3 +9,5 @@ How to open SaleSystemGUI/CLI:
     Credentials:
         usernames: cashier/warehouse/manager
         password: pass
+
+    Every user has access to different tabs.
