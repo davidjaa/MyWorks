@@ -2,8 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/WAD2023-HW4-Backend" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/WAD2023-HW4-Frotend" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/WAD2023-HW4-Frotend/WAD2023-HW4-Frotend" vcs="Git" />
   </component>
 </project>
