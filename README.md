@@ -8,12 +8,66 @@
 
 How to open SaleSystemGUI/CLI:
 
-    Download the folder.  
-
     SaleSystemGUI/CLI folder -> bin folder -> SaleSystemGUI/CLI.bat
 
-    Credentials:  
+    Credentials:   
         usernames: cashier/warehouse/manager
         password: pass
 
     *Every user has access to different tabs.
+
+# Website
+
+## wad2023-lab13-frontend
+
+## Navigate to the project directory
+```
+cd <project name>
+```
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+
+## WAD2023-Lab13-Backend
+
+## Pre-requisites
+Node.js \& NPM
+
+## Navigate to the project directory
+```
+cd <project name>
+```
+
+## Install dependencies
+```
+npm install
+```
+
+## Run the project
+```
+npm start
+```
+
+or
+```
+npm server.js
+```
+
+

@@ -1,5 +1,10 @@
 # wad2023-lab13-frontend
 
+## Navigate to the project directory
+```
+cd <project name>
+```
+
 ## Project setup
 ```
 npm install
