@@ -18,6 +18,9 @@ How to open SaleSystemGUI/CLI:
 
 # Website
 
+The website itself is not so complex, but the main goal was to learn
+how to use the databases on the websites.
+
 ## wad2023-lab13-frontend
 
 ## Navigate to the project directory
