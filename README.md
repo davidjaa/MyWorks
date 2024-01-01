@@ -73,4 +73,12 @@ or
 npm server.js
 ```
 
+## Set database
+
+user: "postgres",
+password: "sql", //add your password
+database: "testWad",
+host: "localhost",
+port: "5432"
+
 
