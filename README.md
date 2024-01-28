@@ -3,7 +3,7 @@
 # SaleSystem
 
     The SaleSystem uses HSQLDB to store warehouse items, but
-    right now I uploaded files that doess't use database for easier testing.  
+    right now I uploaded files that don't use database for easier testing.  
 
 
 How to open SaleSystemGUI/CLI:
